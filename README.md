@@ -140,6 +140,4 @@ VITE_API_URL=https://linkedin-mini-clone-backens.onrender.com
 ⭐ If you like this project, don't forget to star the repo!
 
 
-
-If you want **PDF format** also, just say `make pdf` and I’ll generate it.
 ```
