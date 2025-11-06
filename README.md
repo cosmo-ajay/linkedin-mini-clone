@@ -115,7 +115,7 @@ VITE_API_URL=https://linkedin-mini-clone-backens.onrender.com
 ```
 📌 Example:
 ![Login Page](screenshots/login.png)
-![Feed Page](screenshots/feed.png)
+![Users](https://github.com/cosmo-ajay/linkedin-mini-clone/blob/f76b86304a8a67202552bb38617a58e918f9fc84/Screenshot%202025-11-06%20234025.png)
 ```
 
 ---
